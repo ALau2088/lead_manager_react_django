@@ -5,8 +5,8 @@ import Leads from './Leads';
 export default function Dashboard() {
   return (
     <div>
-      <Form/>
-      <Leads/>
+      <Form />
+      <Leads />
     </div>
   )
 }
